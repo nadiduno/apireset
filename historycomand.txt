@@ -1,0 +1,42 @@
+Content-Type: application/json  
+  365  git add .
+  366  git push
+  367  git commit -m 'Update API'      
+  368  git push
+  369  git add .
+  370  git commit -m 'Update API'      
+  371  git push
+  372  curl -X GET -H "Content-Type: application/json"  "https://localhost:3000/Zodic"
+  373  routes.json
+  374  npm install json-server --save-dev
+  375  node server.js
+  376  git add .
+  377  mkdir public
+  378  echo  'File'  > public/index.html
+  379  json-server db.json
+  380  json-server db.json --static ./some-other-dir
+  381  json-server http://apizodic.com/file.json
+  382  json-server http://jsonplaceholder.typicode.com/db
+  383  json-server http://apizodic.com/db.json
+  384  json-server http://jsonplaceholder.typicode.com/db
+  385  jsonServer.create() jsonServer.defaults(readOnly)
+  386  jsonServer.create() readOnly    
+  387  git add .
+  388  git commit -m 'Config'
+  389  ngrok http 80 --oauth=github --oauth-scope=repo
+  390  npm i -g localtunnel
+  391  px localtunnel --port 3000      
+  392  px localtunnel --port 8000      
+  393  npx localtunnel --port 8000     
+  394  npm install -g localtunnel      
+  395  lt --port 3000
+  396  lt --port 8000
+  397  PORT=3000 lt
+  398  PORT=3000 lt
+  399*
+  400  px localtunnel --port 3000      
+  401  localtunnel --port 3000
+  402  lt --subdomain
+  403  lt -- help --subdomain
+  404  lt --port 3000 -s
+  405  history
