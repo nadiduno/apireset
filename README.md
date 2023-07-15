@@ -15,3 +15,9 @@ https://meuip.com.br/
 $ npm install -g json-server
 $ json-server --watch db.json
 ```
+#Terminal Paralelo
+
+```Bash
+$ npm i -g localtunnel
+$ lt --port 3000 -s
+```
