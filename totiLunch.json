@@ -1,0 +1,74 @@
+{
+  "TotiLunch": [
+    {
+      "id": "1",
+      "name": "X-Burguer",
+      "price": "15",
+      "descriptionNutritional ": "360 g tem cerca 800 calorias, 40 g de gorduras (sendo 16 g de gorduras saturadas), 50 g de carboidratos e 50 g de proteínas.",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "X-Frango",
+      "price": "20",
+      "descriptionNutritional ": "360 g tem cerca de 780 calorias, 41,8 g de gorduras (sendo 10,4 g de gorduras saturadas), 45 g de carboidratos e 53,4 g de proteínas.",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "X-Salada",
+      "price": "18",
+      "descriptionNutritional ": "360 g tem cerca de 897 calorias, 108,9 g de gorduras (sendo 30,3 g de gorduras saturadas), 114 g de carboidratos e 84,2 g de proteínas.",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "X-Bacon",
+      "price": "22",
+      "descriptionNutritional ": "360 g tem cerca de 1123 calorias, 150 g de gorduras (sendo 49,4 g de gorduras saturadas), 133 g de carboidratos e 115 g de proteínas.",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "X-tudo",
+      "price": "25",
+      "descriptionNutritional ": "360 g tem cerca de 802 calorias, 50 g de gorduras e 45 g de carboidratos.",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Cuscuz",
+      "price": "8",
+      "descriptionNutritional ": " 160 g tem cerca de 180 calorias, 0,2 g de gorduras e 25 g de carboidratos, 2 g de proteína e 2 g de fibras",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Tapioca",
+      "price": "8",
+      "descriptionNutritional ": "100 g tem cerca de 240 calorias, 0 g de gorduras e 54 g de carboidratos",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Pão na chapa",
+      "price": "2",
+      "descriptionNutritional ": "50g tem cerca de 209 calorias.",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Pão de queijo (5 und)",
+      "price": "8",
+      "descriptionNutritional ": "1 pão tem 10 g cerca de 27 calorias, 0,48 g de gorduras, 4,81 g de carboidratos e 0,85 g de proteínas.",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Croissant",
+      "price": "12",
+      "descriptionNutritional ": "140g tem cerca de 406 calorias, 21 g de gorduras (sendo 50% saturada), 67 mg de colesterol e 467 mg de sódio",
+      "avatar": "https://raw.githubusercontent.com/nadiduno/totiLunch/main/.github/10.jpg"
+    }   
+  ]
+}
